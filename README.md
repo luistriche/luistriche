@@ -1,8 +1,10 @@
 # Hola, soy Luis Triche 👋
 
-**Data Analyst | Data Science student at UNRC | Google certified**
+**Data Analyst | Lic. en Ciencias de la Educacion | Google Certified**
 
-Transformo datos en decisiones. Actualmente cursando **Licenciatura en Ciencias de Datos para Negocios** y certificado por Google en Data Analytics, Advanced Data Analytics y Business Intelligence.
+Transformo datos en decisiones. <b>Licenciado en Ciencias de la Educacion</b> y actualmente cursando 
+<b>Licenciatura en Ciencias de Datos para Negocios</b>. Certificado por Google en Data Analytics, 
+Advanced Data Analytics y Business Intelligence.
 
 ---
 
@@ -17,13 +19,14 @@ Pandas      NumPy       Scikit-learn Matplotlib  Seaborn
 
 ### 📂 Proyectos Destacados
 
-| Proyecto | Descripcion | Link |
-|----------|-------------|------|
-| 🤖 **AI Data Cleaning Agent** | Limpieza automatica de CSVs con Gemini AI | [Ver](https://github.com/luistriche/ai-data-cleaning-agent) |
-| 🌱 **Suelo Inteligente ML** | Clasificador de fertilidad con KNN + NOM-021 | [Ver](https://github.com/luistriche/suelo-inteligente-ml) |
-| 📊 **Poblacion - Markov** | Simulacion de migracion con cadenas de Markov | [Ver](https://github.com/luistriche/poblacion-migracion-markov) |
-| 📁 **Portafolio Datos** | Casos practicos, informes y certificaciones | [Ver](https://github.com/luistriche/portafolio-analisis-datos) |
-| 🌾 **Suelo Inteligente (original)** | Investigacion: clasificacion de fertilidad agricola | [Ver](https://github.com/luistriche/suelo-inteligente) |
+| Proyecto | Link |
+|----------|------|
+| 🤖 **AI Data Cleaning Agent** - Limpieza automatica de CSVs con Gemini AI | [Ver](https://github.com/luistriche/ai-data-cleaning-agent) |
+| 🌱 **Suelo Inteligente ML** - Clasificador de fertilidad con KNN + NOM-021 | [Ver](https://github.com/luistriche/suelo-inteligente-ml) |
+| 📊 **Poblacion - Markov** - Simulacion de migracion con cadenas de Markov | [Ver](https://github.com/luistriche/poblacion-migracion-markov) |
+| 📁 **Portafolio Datos** - Casos practicos, informes y certificaciones | [Ver](https://github.com/luistriche/portafolio-analisis-datos) |
+| 🌾 **Suelo Inteligente** - Clasificacion de fertilidad agricola (original) | [Ver](https://github.com/luistriche/suelo-inteligente) |
+| 📊 **Dashboard Estadistica** - Proyecto UNRC en equipo | [Ver](https://github.com/luistriche/dashboard-estadistica-unrc-) |
 
 ---
 
@@ -39,6 +42,7 @@ Pandas      NumPy       Scikit-learn Matplotlib  Seaborn
 ### 📬 Contacto
 
 - Email: luistriche501@gmail.com
+- Telefono: 665 107 1365
 - Ubicacion: Tijuana, B.C., Mexico
 
 ---
