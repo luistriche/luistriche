@@ -1,50 +1,78 @@
-# Hola, soy Luis Triche 👋
+```text
+╔══════════════════════════════════════════════════════════════╗
+║           LUIS TRICHE · DATA ANALYTICS ENGINEER             ║
+║     De la pedagogía a los datos — 50 proyectos, un imperio  ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-**Data Analyst | Lic. en Ciencias de la Educacion | Google Certified**
+**Data Analyst** · **Lic. Ciencias de la Educación** · **Google Certified (3x)**  
+Actualmente: **Lic. en Ciencia de Datos para Negocios (UNRC)**  
 
-Transformo datos en decisiones. <b>Licenciado en Ciencias de la Educacion</b> y actualmente cursando 
-<b>Licenciatura en Ciencias de Datos para Negocios</b>. Certificado por Google en Data Analytics, 
-Advanced Data Analytics y Business Intelligence.
+Transformo datos en decisiones. Construyo sistemas, no solo dashboards.
 
 ---
 
-### 🛠️ Tech Stack
+### 🏆 Sistema Fénix V2 — Data Science Empire
+
+> Monorepo de 50 proyectos de Ciencia de Datos + Hub Streamlit + Dashboard de Dominio + IA Local (Ollama)
+
+[![Fénix Empire](https://img.shields.io/badge/Fénix-Empire-FF6B35?style=for-the-badge)](https://github.com/luistriche/Fenix-Data-Science-Empire)
+
+| Fase | Enfoque | Proyectos | Estado |
+|------|---------|-----------|--------|
+| 🧱 Cimientos | Python · SQL · Streamlit · APIs | 01–10 | Activos |
+| ⚔️ Estrategia | Power BI · Tableau · Storytelling | 11–20 | Blueprint |
+| 🔮 Predictiva | ML · Scikit-learn · Time Series | 21–30 | Blueprint |
+| 🧠 Psico-IA | NLP · LLMs · Ollama · Edge AI | 31–40 | Blueprint |
+| 🏢 Enterprise | AWS · MLOps · Producción | 41–50 | Blueprint |
+
+---
+
+### 🛠️ Arsenal Técnico
 
 ```
-Python      SQL         R           Power BI    AWS
-Pandas      NumPy       Scikit-learn Matplotlib  Seaborn
+Python · SQL · R · Power BI · AWS · Streamlit · Plotly
+Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
+Ollama (Edge AI) · Git · Linux · edge-tts · ffmpeg
 ```
+
+**Certificaciones:**  
+✅ Google Data Analytics · ✅ Google Advanced Data Analytics · ✅ Google Business Intelligence
 
 ---
 
 ### 📂 Proyectos Destacados
 
-| Proyecto | Link |
-|----------|------|
-| 🤖 **AI Data Cleaning Agent** - Limpieza automatica de CSVs con Gemini AI | [Ver](https://github.com/luistriche/ai-data-cleaning-agent) |
-| 🌱 **Suelo Inteligente ML** - Clasificador de fertilidad con KNN + NOM-021 | [Ver](https://github.com/luistriche/suelo-inteligente-ml) |
-| 📊 **Poblacion - Markov** - Simulacion de migracion con cadenas de Markov | [Ver](https://github.com/luistriche/poblacion-migracion-markov) |
-| 📁 **Portafolio Datos** - Casos practicos, informes y certificaciones | [Ver](https://github.com/luistriche/portafolio-analisis-datos) |
-| 🌾 **Suelo Inteligente** - Clasificacion de fertilidad agricola (original) | [Ver](https://github.com/luistriche/suelo-inteligente) |
-| 📊 **Dashboard Estadistica** - Proyecto UNRC en equipo | [Ver](https://github.com/luistriche/dashboard-estadistica-unrc-) |
+| Proyecto | Stack | Link |
+|----------|-------|------|
+| 🏆 **Fénix Data Science Empire** (50 proyectos) | Python · Streamlit · Ollama · Plotly | [Repo](https://github.com/luistriche/Fenix-Data-Science-Empire) |
+| 🤖 **AI Data Cleaning Agent** | Gemini AI · Python · Pandas | [Repo](https://github.com/luistriche/ai-data-cleaning-agent) |
+| 🌱 **Suelo Inteligente ML** | KNN · NOM-021 · Scikit-learn | [Repo](https://github.com/luistriche/suelo-inteligente-ml) |
+| 📊 **Población · Markov** | Cadenas de Markov · Simulación | [Repo](https://github.com/luistriche/poblacion-migracion-markov) |
+| 📁 **Portafolio Datos** | Casos prácticos · Informes | [Repo](https://github.com/luistriche/portafolio-analisis-datos) |
+| 📊 **Dashboard Estadística UNRC** | R · Shiny · Equipo | [Repo](https://github.com/luistriche/dashboard-estadistica-unrc-) |
 
 ---
 
-### 🎓 Certificaciones
+### 📊 Métricas de Dominio
 
-- **Google Data Analytics** Professional Certificate
-- **Google Advanced Data Analytics** Professional Certificate
-- **Google Business Intelligence** Professional Certificate
-- **AWS Certified Data Engineer** (Prep) - Especializacion
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#FF6B35', 'textColor': '#ffffff'}}}%%
+xychart-beta
+  title "Horas de Estudio / Semana"
+  x-axis ["Sem 1", "Sem 2", "Sem 3", "Sem 4"]
+  y-axis "Horas" 0 --> 20
+  bar [12, 14, 16, 18]
+```
 
 ---
 
 ### 📬 Contacto
 
-- Email: luistriche501@gmail.com
-- Telefono: 665 107 1365
-- Ubicacion: Tijuana, B.C., Mexico
+- ✉️ luistriche501@gmail.com  
+- 📍 Tijuana, B.C., México  
+- 🔗 [LinkedIn](https://linkedin.com/in/luistriche)  
 
 ---
 
-*"Antes de gestionar una empresa, debemos aprender a gestionarnos como profesionales de datos."*
+> *"No se trata de ser el mejor. Se trata de ser imparable."*
