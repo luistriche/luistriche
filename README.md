@@ -43,6 +43,7 @@ I don't just build dashboards — I build **data-driven learning ecosystems** th
 | Sports & Entertainment | 91–100 | Monte Carlo, Reinforcent Learning |
 
 📂 **Full portfolio:** [github.com/luistriche](https://github.com/luistriche?tab=repositories)
+🌐 **Website & CV:** [luistriche.github.io](https://luistriche.github.io)
 
 ---
 
@@ -60,6 +61,7 @@ Git · Linux · Docker · Ollama (Edge AI) · FastAPI · Jupyter
 
 - ✉️ luistriche501@gmail.com
 - 📍 Tijuana, B.C., Mexico
+- 🌐 [Website & CV](https://luistriche.github.io)
 - 🔗 [LinkedIn](https://linkedin.com/in/luistriche)
 - 💻 [GitHub](https://github.com/luistriche)
 
