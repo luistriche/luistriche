@@ -1,78 +1,68 @@
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║           LUIS TRICHE · DATA ANALYTICS ENGINEER             ║
-║     De la pedagogía a los datos — 50 proyectos, un imperio  ║
+║     LUIS TRICHE · DATA SCIENTIST & LEARNING ANALYTICS       ║
+║     From pedagogy to data — 100+ projects, one mission      ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-**Data Analyst** · **Lic. Ciencias de la Educación** · **Google Certified (3x)**  
-Actualmente: **Lic. en Ciencia de Datos para Negocios (UNRC)**  
+**Data Scientist** · **Learning Analytics Specialist** · **Google Certified (3x)**  
+B.A. Educational Sciences · B.S. Data Science for Business (UNRC, in progress)  
+**11 years** bridging education & technology
 
-Transformo datos en decisiones. Construyo sistemas, no solo dashboards.
-
----
-
-### 🏆 Sistema Fénix V2 — Data Science Empire
-
-> Monorepo de 50 proyectos de Ciencia de Datos + Hub Streamlit + Dashboard de Dominio + IA Local (Ollama)
-
-[![Fénix Empire](https://img.shields.io/badge/Fénix-Empire-FF6B35?style=for-the-badge)](https://github.com/luistriche/Fenix-Data-Science-Empire)
-
-| Fase | Enfoque | Proyectos | Estado |
-|------|---------|-----------|--------|
-| 🧱 Cimientos | Python · SQL · Streamlit · APIs | 01–10 | Activos |
-| ⚔️ Estrategia | Power BI · Tableau · Storytelling | 11–20 | Blueprint |
-| 🔮 Predictiva | ML · Scikit-learn · Time Series | 21–30 | Blueprint |
-| 🧠 Psico-IA | NLP · LLMs · Ollama · Edge AI | 31–40 | Blueprint |
-| 🏢 Enterprise | AWS · MLOps · Producción | 41–50 | Blueprint |
+I don't just build dashboards — I build **data-driven learning ecosystems** that scale.
 
 ---
 
-### 🛠️ Arsenal Técnico
+### 🏆 Google Certifications (Coursera)
+
+| Certification | Issued | Skills |
+|:---|---:|:---|
+| **Google Data Analytics** | 2024 | SQL, R, Tableau, Spreadsheets, Data Cleaning |
+| **Google Advanced Data Analytics** | 2024 | Python, Machine Learning, Regression, Statistics |
+| **Google Business Intelligence** | 2024 | BI Dashboards, ETL, Data Modeling, Looker |
+
+*3x Google Certified — rigorous industry-validated applied data skills.*
+
+---
+
+### 🚀 Featured: 100+ Data Projects
+
+**Corporate-grade projects** spanning 100 real-world data domains:
+- **1–50** — Streamlit dashboards, ETL pipelines, ML models (Spanish ecosystem)
+- **51–100** — Full bilingual stack: Jupyter Notebooks + Streamlit Apps + CLI scripts (English/Spanish)
+
+| Domain | Projects | Stack |
+|:---|---:|:---|
+| Finance & Banking | 01–08, 25, 43 | Python, Streamlit, Plotly |
+| Retail & E-commerce | 02, 04, 11, 17 | Pandas, Scikit-learn, Power BI |
+| Health & Biotech | 61–70 | CNN, TensorFlow, Survival Analysis |
+| NLP & LLMs | 32, 37, 41, 95 | Transformers, BERT, Ollama |
+| Supply Chain & Ops | 51–60 | Genetic Algorithms, Simulation |
+| Environment & ESG | 03, 20, 71–80 | Satellite Imagery, Time Series |
+| EdTech & HR | 81–90 | Recommender Systems, Graph Theory |
+| Sports & Entertainment | 91–100 | Monte Carlo, Reinforcent Learning |
+
+📂 **Full portfolio:** [github.com/luistriche](https://github.com/luistriche?tab=repositories)
+
+---
+
+### 🛠️ Technical Arsenal
 
 ```
-Python · SQL · R · Power BI · AWS · Streamlit · Plotly
-Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
-Ollama (Edge AI) · Git · Linux · edge-tts · ffmpeg
-```
-
-**Certificaciones:**  
-✅ Google Data Analytics · ✅ Google Advanced Data Analytics · ✅ Google Business Intelligence
-
----
-
-### 📂 Proyectos Destacados
-
-| Proyecto | Stack | Link |
-|----------|-------|------|
-| 🏆 **Fénix Data Science Empire** (50 proyectos) | Python · Streamlit · Ollama · Plotly | [Repo](https://github.com/luistriche/Fenix-Data-Science-Empire) |
-| 🤖 **AI Data Cleaning Agent** | Gemini AI · Python · Pandas | [Repo](https://github.com/luistriche/ai-data-cleaning-agent) |
-| 🌱 **Suelo Inteligente ML** | KNN · NOM-021 · Scikit-learn | [Repo](https://github.com/luistriche/suelo-inteligente-ml) |
-| 📊 **Población · Markov** | Cadenas de Markov · Simulación | [Repo](https://github.com/luistriche/poblacion-migracion-markov) |
-| 📁 **Portafolio Datos** | Casos prácticos · Informes | [Repo](https://github.com/luistriche/portafolio-analisis-datos) |
-| 📊 **Dashboard Estadística UNRC** | R · Shiny · Equipo | [Repo](https://github.com/luistriche/dashboard-estadistica-unrc-) |
-
----
-
-### 📊 Métricas de Dominio
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#FF6B35', 'textColor': '#ffffff'}}}%%
-xychart-beta
-  title "Horas de Estudio / Semana"
-  x-axis ["Sem 1", "Sem 2", "Sem 3", "Sem 4"]
-  y-axis "Horas" 0 --> 20
-  bar [12, 14, 16, 18]
+Python · R · SQL · Power BI · AWS · Streamlit · Plotly · Looker
+Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch · Transformers
+Git · Linux · Docker · Ollama (Edge AI) · FastAPI · Jupyter
 ```
 
 ---
 
-### 📬 Contacto
+### 📬 Connect
 
-- ✉️ luistriche501@gmail.com  
-- 📍 Tijuana, B.C., México  
-- 🔗 [LinkedIn](https://linkedin.com/in/luistriche)  
+- ✉️ luistriche501@gmail.com
+- 📍 Tijuana, B.C., Mexico
+- 🔗 [LinkedIn](https://linkedin.com/in/luistriche)
+- 💻 [GitHub](https://github.com/luistriche)
 
 ---
 
-> *"No se trata de ser el mejor. Se trata de ser imparable."*
+>*"Education is not the filling of a pail, but the lighting of a fire." — W.B. Yeats*
